@@ -1,4 +1,7 @@
-# test coverage for  [csv-streamify (v3.0.4)](https://github.com/klaemo/csv-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-csv-streamify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-csv-streamify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-csv-streamify.svg)](https://travis-ci.org/npmtest/node-npmtest-csv-streamify)
+# npmtest-csv-streamify
+
+#### basic test coverage for  [csv-streamify (v3.0.4)](https://github.com/klaemo/csv-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-csv-streamify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-csv-streamify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-csv-streamify.svg)](https://travis-ci.org/npmtest/node-npmtest-csv-streamify)
+
 #### Streaming CSV Parser. Made entirely out of streams.
 
 [![NPM](https://nodei.co/npm/csv-streamify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/csv-streamify)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-csv-streamify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-csv-streamify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-csv-streamify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-csv-streamify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-csv-streamify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-csv-streamify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-csv-streamify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-csv-streamify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-csv-streamify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-csv-streamify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-csv-streamify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-csv-streamify/build/coverage.html/index.html)
 
